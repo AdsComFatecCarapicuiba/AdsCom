@@ -1,0 +1,10 @@
+falta terminar
+
+mural
+avisos -- publicar e avaliar
+tabela
+
+
+// funcao atualizar os dados, tanto o próprio aluno e admin-tdos_alunos.
+//funcao esqueci minha senha
+// adicionar professores/coordenadores
